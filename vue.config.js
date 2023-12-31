@@ -4,7 +4,7 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 module.exports = defineConfig({
   transpileDependencies: true,
   devServer: {
-    proxy: "http://localhost:8000",
+    proxy: "https://e-commercefrontend.onrender.com",
   },
   configureWebpack: {
     plugins: [new MiniCssExtractPlugin()],
