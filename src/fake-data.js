@@ -1,16 +1,3 @@
-import shoesImage1 from '/images/shoes-1.jpg';
-import shoesImage2 from './assets/shoes-2.jpg';
-import shoesImage3 from './assets/shoes-3.jpg';
-import shoesImage4 from './assets/shoes-4.jpg';
-import shoesImage5 from './assets/shoes-5.jpg';
-import shoesImage6 from './assets/shoes-6.jpg';
-import shoesImage7 from './assets/shoes-7.jpg';
-import shoesImage8 from './assets/shoes-8.jpg';
-import shoesImage9 from './assets/shoes-9.jpg';
-import shoesImage10 from './assets/shoes-10.jpg';
-import shoesImage11 from './assets/shoes-11.jpg';
-import shoesImage12 from './assets/shoes-12.jpg';
-
 export const products = [{
   id: '123',
   name: 'Running Shoes',
